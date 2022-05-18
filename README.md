@@ -58,17 +58,17 @@ I am a tenth-semester student of computer and systems engineering at the Univers
 <h3 align="center"> You can find in me in the web 🌍 </h3>
 </br>
 <p align="center">
-<a href="linkedin.com/in/gean-carlo-cortes-mayorga-1b0a62158">
-  <img height=60px alt="Shreya's LinkedIn" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://linkedin.com/in/gean-carlo-cortes-mayorga-1b0a62158">
+  <img height=60px alt="LinkedIn" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/GeanDev2022">
-  <img height=60px alt="Shreya's Github" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img height=60px alt="Github" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/gean_cortes/">
-  <img height=60px alt="Shreya's Instagram" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img height=60px alt="Instagram" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100001003976038">
-  <img height=60px alt="Shreya's Facebook" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img height=60px alt="Facebook" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </p>
 
