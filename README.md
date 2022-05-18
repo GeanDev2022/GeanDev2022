@@ -73,8 +73,11 @@ I am a tenth-semester student of computer and systems engineering at the Univers
 </p>
 </br></br>
 
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="60%" />
+
 
 <!-- statistics -->
+<!--
 <table align="center" width="100%"  border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center">
@@ -82,7 +85,7 @@ I am a tenth-semester student of computer and systems engineering at the Univers
     </td>
   </tr>
 </table>
-
+-->
 
 
 
