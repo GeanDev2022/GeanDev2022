@@ -71,9 +71,11 @@ I am a tenth-semester student of computer and systems engineering at the Univers
   <img height=60px alt="Shreya's Facebook" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </p>
-</br></br>
 
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="60%" />
+<h1 align="center" href="https://github.com/GeanDev2022">
+  <img  alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="40%" />
+</h1>
+
 
 
 <!-- statistics -->
