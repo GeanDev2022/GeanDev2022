@@ -2,6 +2,8 @@
 </br>
 I am a tenth-semester student of computer and systems engineering at the University of Quindío 🚀. I have programmed during my university career in programming languages such as Java, Springboot, Kotlin, Python and SQL databases. I am a proactive person who likes to learn and study day by day, focused on achievements, for which I am willing to do my best to learn the languages, techniques or skills that they consider pertinent and necessary to give me the opportunity to belong to your work group. 👨🏽‍💻
 
+- Development and support of software oriented to payroll administration, helping with digital transformation, through the use of Laravel, js, mysql
+
 </br></br>
 <h3 align="center"> 💻 Languages and Tools </h3>
 </br>
@@ -50,6 +52,28 @@ I am a tenth-semester student of computer and systems engineering at the Univers
 <img height=60px src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> 
 </td>
 </tr>
+   
+<tr>
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+</td>   
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"> 
+</td>
+
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> 
+</td>
+
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
+</td>
+   
+<td align="center" width="20%">
+<img height=60px src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> 
+</td>
+</tr>
+
 </tbody>
 </table>
 
