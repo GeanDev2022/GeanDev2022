@@ -1,8 +1,9 @@
 <h2 align="center"> Welcome to my Github <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h2>
 </br>
-I am a tenth-semester student of computer and systems engineering at the University of Quindío 🚀. I have programmed during my university career in programming languages such as Java, Springboot, Kotlin, Python and SQL databases. I am a proactive person who likes to learn and study day by day, focused on achievements, for which I am willing to do my best to learn the languages, techniques or skills that they consider pertinent and necessary to give me the opportunity to belong to your work group. 👨🏽‍💻
+Soy una persona con gran capacidad de alcanzar objetivos, trabajo en equipo, responsable y gran motivación por nuevos conocimientos. Tengo experiencia en lenguajes como PHP, Node.js, JavaScript con Jquery, y Smarty como templates. Además, en mi ciclo universitario he desarrollado proyectos en Java, Python, Kotlin. 👨🏽‍💻
 
-- Development and support of software oriented to payroll administration, helping with digital transformation, through the use of Laravel, js, mysql
+- Desarrollo y soporte orientado a CRMs usado por empresas más importantes del sector retail, migración de versionamiento, construcción de APIs mediante el uso de Php, JavaScript, Nodejs, Smarty
+- Desarrollo y soporte de software orientado a la administración de nómina ayudando con este a la transformación digital, mediante el uso de Laravel, js, mysql
 
 </br></br>
 <h3 align="center"> 💻 Languages and Tools </h3>
